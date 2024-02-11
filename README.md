@@ -10,6 +10,5 @@ Repo for Mr. Rabson
 
 -- Kindly start updating your LinkedIn profile - getting connected to people i
 
-**
-Day 4 Assigment -- **
+**Day 4 Assigment -- **
 https://microsoftlearning.github.io/PL-900-Microsoft-Power-Platform-Fundamentals/
