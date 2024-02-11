@@ -2,7 +2,7 @@
 Repo for Mr. Rabson
 
 
-Day 1 Assignment :-
+**Day 1 Assignment :-**
 -- Creating the case study whichh you want to implment in Dynamics CRM  - Good Result--- Integration part which you are well aware -- and then we cover it from Dynamics Persepctive--- Data Migration part which we want to target -- Excel : Data Flows : Kingsway Soft
 --- Microsoft Learn website -- 
 
@@ -10,6 +10,6 @@ Day 1 Assignment :-
 
 -- Kindly start updating your LinkedIn profile - getting connected to people i
 
-
-Day 4 Assigment -- 
+**
+Day 4 Assigment -- **
 https://microsoftlearning.github.io/PL-900-Microsoft-Power-Platform-Fundamentals/
